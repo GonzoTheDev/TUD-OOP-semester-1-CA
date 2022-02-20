@@ -9,7 +9,7 @@
 #  \_____|\___/|_| |_/___\___/  |_____/ \___/|_|  \__| \_/\_/ \__,_|_|  \___|
 #
 #                                                                            
-#  Name: Shane Buckley
+#  Name: Shane Wilson
 #  Creation Date: 10/12/2021      
 #  Title: TU856/2 Object-Oriented Programming Assignment 
 #  Description: This is a command-line banking system program written in Python 3 programming language.
