@@ -1,5 +1,5 @@
 # TUD-OOP-semester-1-CA
-TU Dublin - Object Oriented Programming Semester 1 CA - Create a banking system using python.
+TU Dublin - Object Oriented Programming Semester 1 CA - Create a banking system using python. This repository is my final submission. I received a grade of 67%.
 
 
 # PROBLEMS DESCRIPTION:
